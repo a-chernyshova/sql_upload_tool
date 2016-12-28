@@ -1,0 +1,6 @@
+actors
+id, name, age
+12, man1, 12
+13, actor2, 33
+14, dima, 31
+15, bond, 91
